@@ -8,7 +8,7 @@
    ===================================================================== */
 window.TRACKING = {
   GTM_ID:        'GTM-XXXXXXX',          // Google Tag Manager (선택)
-  META_PIXEL_ID: '1581482603705434',     // Meta(페이스북) 픽셀 ID
+  META_PIXEL_ID: '1746532963637882',     // Meta 픽셀 ID — 중문 랜딩 전용(한국과 분리)
   GADS_ID:       'AW-XXXXXXXXXX',        // Google Ads 전환 ID
   GADS_LABEL:    'XXXXXXXXXXXXXXXXXXXX', // Google Ads 전환 라벨
   GA4_ID:        'G-XXXXXXXXXX'          // GA4 측정 ID (선택)
